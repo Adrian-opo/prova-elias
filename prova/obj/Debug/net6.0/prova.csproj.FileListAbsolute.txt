@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\prova\prova\bin\Debug\net6.0\prova.exe
+C:\Users\adria\source\repos\prova\prova\bin\Debug\net6.0\prova.deps.json
+C:\Users\adria\source\repos\prova\prova\bin\Debug\net6.0\prova.runtimeconfig.json
+C:\Users\adria\source\repos\prova\prova\bin\Debug\net6.0\prova.dll
+C:\Users\adria\source\repos\prova\prova\bin\Debug\net6.0\prova.pdb
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.AssemblyInfo.cs
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.dll
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\refint\prova.dll
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.pdb
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\prova.genruntimeconfig.cache
+C:\Users\adria\source\repos\prova\prova\obj\Debug\net6.0\ref\prova.dll
